@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+xgboost
+shap
+psychopy
+pylsl
+pyxdf
+opencv-python
+matplotlib
+seaborn
+
